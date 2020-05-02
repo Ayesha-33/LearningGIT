@@ -1,0 +1,201 @@
+.nav{
+    border: 2px  rgba(30, 30, 202, 0.712);
+    height: 40px;
+    width: 100%;
+    background-color:  rgba(30, 30, 202, 0.712);  
+    overflow: auto;
+}
+i{
+    color: white;
+    margin-left: 20px;
+    margin-top: 12px;
+}
+.p{
+    display: inline;
+    color: white;
+    font-size:14px ;
+    text-align: center;
+    margin-left: 300px;
+}
+
+button{
+    padding: 5px;
+    margin: 4px;
+    border: none;
+    border-radius: 0px;
+    background-color: whitesmoke;
+    font-size: 10px;
+    color: grey;
+    float: right;
+    cursor: pointer;
+}
+
+li{
+    display: inline;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 25px;
+    text-align: right;
+    margin-right: 10px;
+    margin-top: 5px;
+    float: right;
+    font-size: 1em;
+}
+li:hover{
+    background-color: rgba(49, 110, 195, 0.979);
+    color: white;
+}
+.blue1{
+    background-color:rgba(49, 110, 195, 0.979) ;
+    color: white;
+}
+
+ul{
+    border: 2px lightgray;
+    background-color: rgba(211, 211, 211, 0.459);
+    height: 55px;
+    width: 97%;
+    text-decoration: none;
+}
+
+.marquee{
+    border: 2px white;
+    height: 23px;
+    width: 60%;
+    background-color: rgba(30, 30, 202, 0.712);
+    margin: 0 auto;
+    color: white;
+}
+.green1{
+    color: greenyellow;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.blue{
+    color: rgba(19, 19, 216, 0.685);
+}
+
+.green{
+    color: green;
+}
+
+.intro{
+    border:2px solid whitesmoke;
+    height: 1640px;
+    width: 100%;
+    background-color: whitesmoke ;
+   
+}
+
+.center{
+    border:2px solid whitesmoke;
+    height: 600px;
+    width: 60%;
+    background-color: whitesmoke ;
+    color: grey;
+    padding: 10px;
+    margin: 0 auto;
+    line-height: 23px;
+}
+
+.right{
+    border: 2px white;
+    height: 100px;
+    width: 230px;
+    float: right;
+    margin-right: 290px;
+    color: grey;
+}
+
+.div{
+    border: 2px;
+    height: 180px;
+    width: 300px; 
+    box-shadow: 4px 4px 4px 4px rgba(128, 128, 128, 0.185);
+    background-color: white;
+    display: inline-block;
+    margin: 20px 20px 20px 20px;
+    float: left;
+}
+.div img{
+    margin-left: 110px;
+    margin-top: 20px;
+}
+.div1 img{
+    margin-left: 110px;
+    margin-top: 20px;
+}
+.div1{
+    border: 2px;
+    height: 180px;
+    width: 300px; 
+    box-shadow: 4px 4px 4px 4px rgba(128, 128, 128, 0.185);
+    background-color: white;
+    display: inline-block;
+    margin: 20px 20px 20px 20px;
+    float: left;
+}
+.div2{
+    border: 2px;
+    height: 67px;
+    width: 320px; 
+    background-color: whitesmoke;
+    display: inline-block;
+    margin: 12px 12px 12px 12px;
+    float: left;
+}
+.div2 p{
+    margin-top: 50px;
+    margin-left: 30px;
+    color: rgba(19, 19, 216, 0.685);
+    display: inline;
+}
+/* .div2 img{
+    display: inline;
+    margin-bottom: 10px;
+    float: left;
+    margin-left: 30px;
+} */
+.div3{
+    margin-left: 255px;
+    display: inline-block;
+}
+.div4{
+    margin: 0 auto;
+    border:2px solid whitesmoke;
+    background-color: whitesmoke ;
+    height: 370px;
+    width: 70%;
+}
+.div5{
+    border: 2px white;
+    min-height: 100px;
+    max-height: 180px;
+    width: 260px;
+    overflow: scroll;
+}
+.div6{
+    margin-left: 230px;
+}
+.div7{
+    border: 2px rgba(12, 13, 27, 0.918);
+    height: 300px;
+    width: 100%;
+    background-color: rgba(12, 13, 27, 0.877);
+    color: white;
+    
+.div8{
+    border: 2px;
+    background-color: rgba(12, 13, 27, 0.877);
+    display: inline-block;
+    width: 200px;
+    height: 180px;
+}
+
